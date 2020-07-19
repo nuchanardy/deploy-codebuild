@@ -1,1 +1,1 @@
-print ("World")
+print ("WORLD")
